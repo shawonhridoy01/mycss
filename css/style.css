@@ -1,0 +1,33 @@
+h1{
+    color :blueviolet;
+    text-align: center;
+}
+.paragraph{
+    color: #2ec468;
+}
+#bold{
+    color: rgb(35, 64, 223);
+    border: 5px solid black;
+    outline: 10px solid salmon;
+    text-transform: uppercase;
+}
+
+.background-div{
+    background-color: aqua;
+    color: wheat;
+    padding: 1%;
+    margin:1% 0;
+    box-sizing: border-box;
+}
+.background-image{
+    background-image: url(../css/images/back.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: overlay;
+    width: 60%;
+    padding: 3%;
+
+    
+    color: white;
+}
